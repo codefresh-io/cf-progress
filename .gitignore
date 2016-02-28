@@ -1,0 +1,7 @@
+node_modules
+.coverrun
+.coverdata
+coverage/*.html
+.debug
+coverage
+.coveralls.yml
