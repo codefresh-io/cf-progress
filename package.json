@@ -11,6 +11,7 @@
     "cf-progress"
   ],
   "dependencies": {
+    "firebase": "^2.4.1",
     "lodash": "^3.10.1"
   },
   "devDependencies": {
